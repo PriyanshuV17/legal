@@ -11,9 +11,13 @@
 
 ---
 
+<<<<<<< HEAD
 ## ✦ About
 
 **LegalBuddy AI** is an exploratory legal-assistance project that brings together a chat-oriented interface, case and law exploration components, and lawyer recommendation experiments. The repository includes Python application code, backend modules, a React + Vite frontend scaffold, and saved model/data artifacts.
+=======
+## Overview
+>>>>>>> 3d6e4812eb05288af5a982c97efedc1a574025ab
 
 > **Project status:** evolving prototype. Repository components may differ in maturity; this documentation does not imply that every feature is deployed or production-ready.
 
