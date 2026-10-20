@@ -1,4 +1,7 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+*.pt filter=lfs diff=lfs merge=lfs -text
+*.pth filter=lfs diff=lfs merge=lfs -text
+*.pkl filter=lfs diff=lfs merge=lfs -text
 models/ranking_model.pkl filter=lfs diff=lfs merge=lfs -text
 future/models/ranking_model.pkl filter=lfs diff=lfs merge=lfs -text
