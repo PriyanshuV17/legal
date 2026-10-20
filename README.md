@@ -2,8 +2,6 @@
 
 A machine-learning project for ranking legal documents or cases by relevance to a query. This repository includes a serialized ranking model (`ranking_model.pkl`) and related project files.
 
-> **Note:** This README is based on the repository name and the model paths visible from the Git push output. The repository source could not be inspected from this session, so details such as the exact ranking approach, dataset, API, and evaluation metrics should be confirmed against the code before publishing.
-
 ## Overview
 
 Legal information systems often need to retrieve relevant documents from a large collection of statutes, judgments, or other legal materials. A ranking model can help order candidate documents by their estimated relevance to a user’s query.
