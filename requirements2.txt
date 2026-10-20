@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+sqlalchemy
+pydantic
+email-validator
+python-multipart
+requests
+langchain
+langchain-community
+langchain-core
+langchain-huggingface
+chromadb
+sentence-transformers
+ollama
+pypdf

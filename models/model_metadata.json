@@ -1,0 +1,11 @@
+{
+  "model_type": "ensemble_recommendation",
+  "version": "1.0",
+  "models": [
+    "knn_similarity",
+    "random_forest_ranking",
+    "content_based_filtering"
+  ],
+  "data_samples": 84000,
+  "status": "ready"
+}

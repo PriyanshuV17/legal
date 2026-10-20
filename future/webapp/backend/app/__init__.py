@@ -1,0 +1,1 @@
+# LegalBuddy webapp backend package.
